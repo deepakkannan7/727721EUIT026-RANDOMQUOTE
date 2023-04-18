@@ -1,0 +1,30 @@
+
+.Rand
+{
+    color:rgb(0, 255, 225);
+    text-decoration: underline;
+    margin-top: -100px;
+    text-shadow: 2px 2px #ff0000;
+}
+.Quote
+{
+    color:yellow;
+    height:150px;
+    width:700px;
+    border-radius: 20px;
+    border-color: rgb(43, 226, 223);
+    box-shadow: palevioletred;
+    border:3px solid rgb(39, 77, 247);
+    background-image:linear-gradient(to bottom right,rgba(123, 4, 144, 0.984),rgba(118, 5, 5, 0.866),rgba(6, 13, 118, 0.995));
+}
+.btn
+{
+    height: 40px;
+    width:100px;
+    margin-top: 30px;
+    border-radius: 10px;
+    background-color: rgb(237, 113, 51);
+    font-weight: bold;
+    color:rgb(65, 50, 202);
+}
+
